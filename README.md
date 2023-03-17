@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Thainná Santana
+Aposentei minha OAB para trabalhar no mercado digital com gestão de tráfego.
+
+
 <!--
 **thainnasantana/thainnasantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
